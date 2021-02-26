@@ -19,11 +19,13 @@ img {
 }
 
 h1, h2 {
+  color: #623b0c;
   font-family: "Denk One";
 }
 
 h1 {
   font-size: 1.5rem;
+  margin-left: 2em;
 }
 
 h2 {
