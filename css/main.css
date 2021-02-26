@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: Georgia, serif;
-  font-size: .875rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -10,7 +10,12 @@ html {
 }
 
 body {
+  background-color: #fff;
   margin: 0;
+}
+
+main {
+  width: 96%;
 }
 
 img {
@@ -32,6 +37,10 @@ h2 {
   font-size: 1.125rem;
 }
 
+p {
+  font-size: .857rem;
+}
+
 main ol {
   display: grid;
   gap: 1rem;
@@ -47,6 +56,10 @@ main ol li {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+main ol li p {
+  flex-grow: 1;
 }
 
 li a {
