@@ -2,7 +2,7 @@ html {
   background-color: #fff;
   box-sizing: border-box;
   font-family: Georgia, serif;
-  font-size: 1rem;
+  /* font-size: 1rem; */
   line-height: 1.5;
 }
 
@@ -30,17 +30,17 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 1.5rem;
+  /* font-size: 1.5rem; */
   margin-left: 2em;
   margin-top: 1.5em;
 }
 
 h2 {
-  font-size: 1.125rem;
+  /* font-size: 1.125rem; */
 }
 
 p {
-  font-size: .857rem;
+  /* font-size: .857rem; */
 }
 
 main ol {
