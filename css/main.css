@@ -1,5 +1,5 @@
 html {
-  background-color: #fff;
+  background-color: #f5f2f0;
   box-sizing: border-box;
   font-family: Georgia, serif;
   line-height: 1.5;
@@ -16,6 +16,7 @@ body {
 main {
   width: 96%;
   margin-top: 1.5rem;
+  margin-left: -1.5rem;
 }
 
 img {
@@ -29,8 +30,12 @@ h1, h2 {
 }
 
 h1 {
-  margin-left: 2em;
-  margin-top: 1.5em;
+  margin-left: 1.2em;
+  margin-top: -.6rem;
+}
+
+h2 {
+  margin-top: 0;
 }
 
 main ol {
